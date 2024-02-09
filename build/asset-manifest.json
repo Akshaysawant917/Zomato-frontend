@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/static/css/main.e783bb1c.css",
+    "main.js": "/static/js/main.e6ee8724.js",
+    "static/js/787.5095993b.chunk.js": "/static/js/787.5095993b.chunk.js",
+    "static/media/pexels-chan-walrus-958545.jpg": "/static/media/pexels-chan-walrus-958545.6a545d4d0a80d9813949.jpg",
+    "index.html": "/index.html",
+    "main.e783bb1c.css.map": "/static/css/main.e783bb1c.css.map",
+    "main.e6ee8724.js.map": "/static/js/main.e6ee8724.js.map",
+    "787.5095993b.chunk.js.map": "/static/js/787.5095993b.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e783bb1c.css",
+    "static/js/main.e6ee8724.js"
+  ]
+}

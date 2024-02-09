@@ -1,0 +1,136 @@
+.bg{
+    background-image: linear-gradient(to right, rgba(10, 10, 10, 0.5), rgba(10, 10, 10, 0.5)),
+        url(../../public/assets/pexels-chan-walrus-958545.jpg);
+    height: 320px;
+    background-size: cover;
+}
+/* .buttonsHome {
+    position: relative;
+    top: 20px;
+    text-align: right;
+    right: 40px;
+}
+
+.button1 {
+    border: none;
+    background-color: transparent;
+    color: white;
+
+}
+
+.button2 {
+    border: 1px solid white;
+    background-color: transparent;
+    color: white;
+    padding: 5px;
+} */
+
+
+.sugbox{
+/* margin-top: 5px; */
+position: relative;
+background-color: rgb(243, 224, 224);
+margin-top: 7px;
+min-height: 30px;
+width: 100% ;
+list-style-type: none;
+}
+.sugli{
+    
+    border: none;
+    position: relative;
+    left: 18px;
+    /* height: 30px; */
+    width: 80%;
+    /* top: 2px; */
+}
+.logo{
+    border: 1px solid white;
+    background-color: white;
+    border-radius: 50%;
+    color: rgb(191, 19, 19)(231, 199, 199);
+    width: 50px;
+    height: 50px;
+    margin: auto;
+    margin-top: 0px;
+    font-size:xx-large;
+    text-align: center;
+    font-weight: bold;
+}
+.heading{
+    color: white;
+    font-size: x-large;
+    margin: auto;
+    text-align: center;
+    font-weight: bold;
+}
+
+.datalist{
+    /* background-color: white; */
+  display: inline-block;
+  /* border-radius: 10px; */
+  
+}
+.select {
+    /* border: 1px solid black; */
+    /* border-radius: 10px; */
+    height: 35px;
+    width: 100%;
+
+}
+.icon{
+    position: relative;
+    left: 10px;
+    height: 30px;
+}
+.input {
+    border: none;
+    position: relative;
+    left: 18px;
+    height: 30px;
+    width: 80%;
+    top: 2px;
+
+}
+.search2{
+    border: 1px solid black;
+    /* border-radius: 10px; */
+    position: relative;
+    background-color: white;
+    display: inline-block;
+    /* width: 70%; */
+    height: 35px;
+}
+
+.colcol{
+    position: relative;
+    
+    height: 100px; 
+}
+.innerdiv{
+    margin-top: 2px;
+    height: 90%;
+    width: 99%;
+    box-shadow: 5px 5px 5px grey;
+}
+.img{
+position:relative;
+width: 80px;
+padding-top: 4px;
+
+}
+.boxhead{
+    position: absolute;
+    display: inline-block;
+    left: 120px;
+}
+.boxp{
+    display: inline-block;
+    position: absolute;
+    left: 120px;
+    top: 30px;
+    padding-right: 15px;
+}
+.write{
+    line-height: 5px;
+}
